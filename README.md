@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </div>
 <div>
  <a href = "https://www.cloudskillsboost.google/public_profiles/44e5c031-3fc8-49b7-a197-4f28d8c08291"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"></a>
- <a href = "mailto:raicarvalho343@gmail.com"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"></a>
+ <a href = "https://www.credly.com/earner/earned/badge/4522ca36-118e-4efc-aa9b-fd96dd6cc7af"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"></a>
  <a href = "https://www.netacad.com/pt/profile?&tab=profile"><img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" target="_blank"></a>
 </div>
 
