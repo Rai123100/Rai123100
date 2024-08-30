@@ -31,3 +31,11 @@ Here are some ideas to get you started:
  <a href = "https://www.figma.com/design/M1EAE0Usee4CJbSxEDfVst/Untitled?node-id=0-1&node-type=CANVAS"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
 </div><br>
 
+<div>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rai123100/Rai123100/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rai123100/Rai123100/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rai123100/Rai123100/output/github-contribution-grid-snake.svg">
+   </picture>
+</div>
+
