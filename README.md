@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, seja Bem-Vindo 👋
 
 <!--
 **Rai123100/Rai123100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center" whidth="800">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Shade&size=35&pause=500&color=00D4D4AE&center=true&width=800&height=100&lines=Ol%C3%A1%2C+meu+nome+%C3%A9;Rai+Carvalho+de+Figueiredo;Tenho+16+anos;Seja+Bem-Vindo+!!!" alt="Typing SVG" /></a>
+</div>
+<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
+
 
 <!-- Gráfico status -->
 
@@ -53,5 +58,3 @@ alt="Rai github stats" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rai123100/Rai123100/output/github-contribution-grid-snake.svg">
    </picture>
 </div>
-
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
