@@ -29,4 +29,13 @@ Here are some ideas to get you started:
  <a href = "https://www.credly.com/users/rai-carvalho"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"></a>
  <a href = "https://www.netacad.com/pt/profile?&tab=profile"><img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" target="_blank"></a>
  <a href = "https://www.figma.com/design/M1EAE0Usee4CJbSxEDfVst/Untitled?node-id=0-1&node-type=CANVAS"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
+</div><br>
+
+<div>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/Rai123100/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/Rai123100/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/Rai123100/output/github-contribution-grid-snake.svg">
+   </picture>
 </div>
+
