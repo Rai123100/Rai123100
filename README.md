@@ -20,15 +20,18 @@ alt="Rafaela Botelho github stats" />
 </div>
 
 <div  align="center"><br>
-  <img align="center" alt="Raí-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Raí-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Raí-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+ <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849661/css_jtfcoz.png" alt="css-logo" height="40">
+ <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png" alt="html-logo" height="40">
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35"></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='40'/> </a>
+</div><br>
+
 <div align="center"><br>
  <a href="https://github.com/Rai123100" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/rai-carvalho-849191300/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href = "mailto:raicarvalho343@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
 <div align="center">
  <a href = "https://www.cloudskillsboost.google/public_profiles/44e5c031-3fc8-49b7-a197-4f28d8c08291"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"></a>
  <a href = "https://www.credly.com/users/rai-carvalho"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"></a>
@@ -38,9 +41,10 @@ alt="Rafaela Botelho github stats" />
 
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rai123100/Rai123100/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rai123100/Rai123100/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark blue)" srcset="https://raw.githubusercontent.com/Rai123100/Rai123100/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark blue)" srcset="https://raw.githubusercontent.com/Rai123100/Rai123100/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rai123100/Rai123100/output/github-contribution-grid-snake.svg">
    </picture>
 </div>
 
+<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
