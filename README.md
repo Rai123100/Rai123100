@@ -1,3 +1,4 @@
+<img src="/img/astronauta.jpg">
 ## Olá, seja Bem-Vindo 👋
 
 <!--
