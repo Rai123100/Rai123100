@@ -4,23 +4,15 @@
 
 ##
 
-<!--
-**Rai123100/Rai123100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center" whidth="800">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Shade&size=35&pause=500&color=00D4D4AE&center=true&width=800&height=100&lines=Ol%C3%A1%2C+meu+nome+%C3%A9;Rai+Carvalho+de+Figueiredo;Tenho+16+anos;Seja+Bem-Vindo+!!!" alt="Typing SVG" /></a>
+  <p>Estudante de Desenvolvimento de Sistemas</p>
+  <p>Senai Morvan Figueiredo</p>
 </div>
+
+##
+
+
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
 
