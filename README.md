@@ -64,4 +64,4 @@ alt="Rai github stats" />
 
 ##
 
-<img src="/img/Captura de tela 2024-08-31 130206.png">
+<img src="/img/Jesus é Rei.png">
