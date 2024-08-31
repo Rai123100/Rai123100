@@ -64,4 +64,4 @@ alt="Rai github stats" />
 
 ##
 
-<img src="https://i.pinimg.com/originals/46/3e/91/463e9102035b918bf20ee6ca1151fe82.jpg">
+<img src="/img/Captura de tela 2024-08-31 130206.png">
