@@ -1,5 +1,8 @@
-<img src="/img/astronauta.jpg">
-## Olá, seja Bem-Vindo 👋
+<div align="center" whidth="800">
+  <img src="https://i.pinimg.com/originals/32/30/10/323010a463ef1f84fdf5f7a568462b8a.jpg">
+</div>
+
+##
 
 <!--
 **Rai123100/Rai123100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
