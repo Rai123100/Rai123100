@@ -12,6 +12,7 @@
 
 ##
 
+<!-- Imagem -->
 
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
@@ -22,6 +23,8 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rai123100&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&theme=radical"
 alt="Rai github stats" />
 </div>
+
+##
 
 <!-- Meios de contato -->
 
@@ -47,6 +50,10 @@ alt="Rai github stats" />
  <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='40'/> </a>
 </div><br>
 
+##
+
+<!-- Cobrinha -->
+
 <div align="center">
   <picture>
   <source media="(prefers-color-scheme: dark blue)" srcset="https://raw.githubusercontent.com/Rai123100/Rai123100/output/github-contribution-grid-snake-dark.svg">
@@ -54,3 +61,7 @@ alt="Rai github stats" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rai123100/Rai123100/output/github-contribution-grid-snake.svg">
    </picture>
 </div>
+
+##
+
+<img src="https://i.pinimg.com/originals/46/3e/91/463e9102035b918bf20ee6ca1151fe82.jpg">
