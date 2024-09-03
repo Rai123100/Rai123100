@@ -8,6 +8,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Shade&size=35&pause=500&color=00D4D4AE&center=true&width=800&height=100&lines=Ol%C3%A1%2C+meu+nome+%C3%A9;Rai+Carvalho+de+Figueiredo;Tenho+16+anos;Seja+Bem-Vindo+!!!" alt="Typing SVG" /></a>
   <p>Estudante de Desenvolvimento de Sistemas</p>
   <p>Senai Morvan Figueiredo</p>
+  <a href="#"><img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a> 
 </div>
 
 ##
@@ -21,7 +22,6 @@
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rai123100&show_icons=true&count_private=true&hide_border=false&border_radius=5&order=3title_color=ff91a4&theme=radical"
 alt="Rai github stats" /><br>
- <a href="#"><img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a> 
 </div>
 
 ##
