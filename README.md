@@ -15,7 +15,6 @@
 
 <!-- Gráfico status -->
 
-(https://github-readme-activity-graph.vercel.app/graph?username=Rai123100)](https://github.com/Rai123100/github-readme-activity-graph)
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rai123100&show_icons=true&count_private=true&hide_border=false&border_radius=5&order=3title_color=ff91a4&theme=radical"
