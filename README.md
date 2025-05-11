@@ -19,7 +19,7 @@
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rai123100&show_icons=true&count_private=true&hide_border=false&border_radius=5&order=3title_color=ff91a4&theme=radical"
 alt="Rai github stats" /><br>
-  <img width="49%" height="195px" src="[https://github-readme-stats.vercel.app/api?username=Rai123100&show_icons=true&count_private=true&hide_border=false&border_radius=5&order=3title_color=ff91a4&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)"
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"
 alt="Rai github stats" />
 </div>
 
