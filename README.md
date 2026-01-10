@@ -15,7 +15,6 @@
 
 <!-- Gráfico status -->
 
-
 [![Rai GitHub stats](https://github-readme-stats.vercel.app/api?username=Rai123100&show_icons=true&theme=radical)](https://github.com/Rai123100)
 
 
