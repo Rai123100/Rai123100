@@ -38,15 +38,6 @@ alt="Rai github stats" /><br>
  <a href = "https://www.netacad.com/pt/profile?&tab=profile"><img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" target="_blank"></a>
 </div><br>
 
-<!-- software's -->
-
-<div  align="center">
- <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849661/css_jtfcoz.png" alt="css-logo" height="40">
- <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png" alt="html-logo" height="40">
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35"></a>
- <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='40'/> </a>
-</div><br>
-
 ##
 
 <!-- Cobrinha -->
